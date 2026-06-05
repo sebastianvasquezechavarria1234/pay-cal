@@ -1,0 +1,7 @@
+C:\Users\Sebastian\Desktop\reto2\reto2\bin\Debug\reto2.exe.config
+C:\Users\Sebastian\Desktop\reto2\reto2\bin\Debug\reto2.exe
+C:\Users\Sebastian\Desktop\reto2\reto2\bin\Debug\reto2.pdb
+C:\Users\Sebastian\Desktop\reto2\reto2\obj\Debug\reto2.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\reto2\reto2\obj\Debug\reto2.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\reto2\reto2\obj\Debug\reto2.exe
+C:\Users\Sebastian\Desktop\reto2\reto2\obj\Debug\reto2.pdb
