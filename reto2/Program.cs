@@ -1,6 +1,6 @@
-﻿using System;
+using System;
 
-namespace EmpleadoSalario
+namespace PayCal
 {
     internal class Program
     {

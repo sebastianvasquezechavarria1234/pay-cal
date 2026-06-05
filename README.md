@@ -1,6 +1,6 @@
-# 🧑‍💻 Employee Salary Calculator 💰
+# 💰 Pay-Cal — Employee Salary Calculator
 
-Welcome to the **Employee Salary Calculator** project! 🚀 This is a simple yet effective C# console application designed to calculate an employee's salary based on their worked hours and hourly wage. It also determines if the employee is eligible for a transportation subsidy according to Colombian labor regulations. 🇨🇴
+Welcome to **Pay-Cal**! 🚀 A simple yet effective C# console application designed to calculate an employee's salary based on their worked hours and hourly wage. It also determines if the employee is eligible for a transportation subsidy according to Colombian labor regulations. 🇨🇴
 
 ## ✨ Features
 - 🕒 **Input Data**: Captures employee name, code, worked hours, and hourly wage.
@@ -14,7 +14,7 @@ Welcome to the **Employee Salary Calculator** project! 🚀 This is a simple yet
 - **Environment:** Console Application
 
 ## 🚀 How to Run
-1. Clone the repository: `git clone https://github.com/sebastianvasquezechavarria1234/devey.git`
+1. Clone the repository: `git clone https://github.com/sebastianvasquezechavarria1234/pay-cal.git`
 2. Open the solution in Visual Studio or any compatible IDE.
 3. Build and run the project (`Program.cs`).
 4. Follow the on-screen prompts to input the employee details.
